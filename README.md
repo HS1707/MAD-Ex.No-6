@@ -202,12 +202,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![image](https://github.com/kannan0071/MAD-Ex.No-6/assets/119641638/c1b12212-012f-4a17-b53c-69b75b73eb8d)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-6/assets/119641638/dac26bed-538f-4989-ac0a-aa6c2ed9bce5)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-6/assets/119641638/8d296130-6937-4e50-8825-23bfea09dadd)
-
 ![sms intent](https://github.com/kannan0071/MAD-Ex.No-6/assets/119641638/f6033989-1aab-424d-bbdf-b5bbf6e00bd7)
 
 
